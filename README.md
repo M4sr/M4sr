@@ -48,7 +48,8 @@ Hello, I'm **M4sr**! 🚀
 ## 📊 My GitHub Stats
 
 ![M4sr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4sr&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4sr&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4sr&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=M4sr&theme=radical&hide_border=true)
 
 ---
 
