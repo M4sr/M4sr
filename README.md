@@ -1,4 +1,3 @@
-```markdown
 # Welcome to My GitHub Profile! ✨
 
 Hello, I'm **M4sr**! 🚀
