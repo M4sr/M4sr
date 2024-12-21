@@ -1,25 +1,26 @@
-# Welcome to My GitHub Profile! ✨
+```markdown
+# Selamat Datang di Profil GitHub Saya! ✨
 
-Hi there, I'm **M4sr**! 🚀
-
----
-
-### 🌟 About Me
-
-- ⚡ **Passionate about Technology and Development**
-  I enjoy building innovative solutions and exploring cutting-edge technologies.
-
-- ✍️ **Current Focus**
-  Diving deeper into **Web Development**, **DevOps**, and **AI/ML** projects.
-
-- 🌱 **Learning**
-  Continuously expanding my knowledge base by exploring **Cloud Computing** and **Kubernetes**.
+Halo, saya **M4sr**! 🚀
 
 ---
 
-### ⚖️ My Stack
+### 🌟 Tentang Saya
 
-#### ⚛ **Languages & Tools**
+- ⚡ **Gairah dalam Teknologi dan Pengembangan**  
+  Saya senang menciptakan solusi inovatif dan menjelajahi teknologi terbaru.
+
+- ✍️ **Fokus Saat Ini**  
+  Mendalami lebih jauh tentang **Pengembangan Web**, **DevOps**, dan **AI/ML**.
+
+- 🌱 **Sedang Belajar**  
+  Memperluas pengetahuan saya tentang **Cloud Computing** dan **Kubernetes**.
+
+---
+
+### ⚖️ Keahlian Saya
+
+#### ⚛ **Bahasa & Alat yang Dikuasai**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
@@ -31,37 +32,38 @@ Hi there, I'm **M4sr**! 🚀
 
 ---
 
-### 📝 Projects Worth Checking Out
+### 📝 Proyek yang Layak Dilihat
 
-- [**Project 1**](https://github.com/M4sr/project1) - **Web app for [use case]**  
-  • Built using **React** + **Node.js** + **MongoDB**  
-  • Optimized for performance with **serverless architecture**.
+- [**Proyek 1**](https://github.com/M4sr/project1) - **Aplikasi web untuk [kegunaan tertentu]**  
+  • Dibangun dengan **React**, **Node.js**, dan **MongoDB**  
+  • Dioptimalkan untuk performa dengan **arsitektur serverless**.
 
-- [**Project 2**](https://github.com/M4sr/project2) - **Automation tool for [task]**  
-  • Leverages **Python** + **Docker** for efficiency and scalability.
+- [**Proyek 2**](https://github.com/M4sr/project2) - **Alat otomatisasi untuk [tugas tertentu]**  
+  • Memanfaatkan **Python** dan **Docker** untuk efisiensi dan skalabilitas.
 
-- [**Project 3**](https://github.com/M4sr/project3) - **Interactive [feature/project type]**  
-  • Features **real-time updates** using WebSockets.
-
----
-
-### 📈 My Stats
-
-![M4sr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4sr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4sr&layout=compact&theme=radical)
+- [**Proyek 3**](https://github.com/M4sr/project3) - **[fitur/proyek interaktif]**  
+  • Menyediakan **pembaruan real-time** menggunakan WebSockets.
 
 ---
 
-### 📞 Connect with Me
+### 📈 Statistik Saya
+
+![Statistik GitHub M4sr](https://github-readme-stats.vercel.app/api?username=M4sr&show_icons=true&theme=radical)
+![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=M4sr&layout=compact&theme=radical)
+
+---
+
+### 📞 Hubungi Saya
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/username)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://yourportfolio.com)
+[![Portofolio](https://img.shields.io/badge/-Portofolio-000?style=flat-square)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:youremail@example.com)
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+> "Kode yang bagus adalah seni. Setiap barisnya memiliki cerita." — Anonim
 
 ---
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=M4sr&theme=radical)
+![Aktivitas GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=M4sr&theme=radical)
+```
