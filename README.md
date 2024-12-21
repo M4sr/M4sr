@@ -4,7 +4,7 @@ Hello, I'm **M4sr**! 🚀
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
 - ⚡ **Passionate About Technology and Development**  
   I love building innovative solutions and exploring the latest technologies.
@@ -17,9 +17,9 @@ Hello, I'm **M4sr**! 🚀
 
 ---
 
-### ⚖️ My Skills
+## ⚒️ My Skills
 
-#### ⚛ **Languages & Tools**
+### ⚛ Programming Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square)
@@ -31,7 +31,7 @@ Hello, I'm **M4sr**! 🚀
 
 ---
 
-### 📝 Projects Worth Checking Out
+## 📝 Featured Projects
 
 - [**Project 1**](https://github.com/M4sr/project1) - **Web Application for [Specific Use Case]**  
   Built with **React**, **Node.js**, and **MongoDB**.  
@@ -45,17 +45,17 @@ Hello, I'm **M4sr**! 🚀
 
 ---
 
-### 📈 My Stats
+## 📊 My GitHub Stats
 
-![M4sr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4sr&show_icons=true&theme=radical)
+![M4sr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4sr&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4sr&layout=compact&theme=radical)
 
 ---
 
-### 📞 Connect With Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/username)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/username)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:youremail@example.com)
 
 ---
