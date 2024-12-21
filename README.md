@@ -1,3 +1,3 @@
 ## Hi there 👋
-![<Badge Aboutme>](https://img.shields.io/badge/<Badge M4sr>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
