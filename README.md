@@ -49,10 +49,12 @@ Hello, I'm **M4sr**! 🚀
 
 ## 📊 My GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
 ![M4sr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4sr&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M4sr&layout=compact&theme=radical)  
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=M4sr&theme=radical&hide_border=true)
 
 </div>
@@ -61,10 +63,12 @@ Hello, I'm **M4sr**! 🚀
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/username)  
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square)](https://yourportfolio.com)  
+
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:youremail@example.com)
 
 </div>
