@@ -35,14 +35,14 @@ Halo, saya **M4sr**! 🚀
 ### 📝 Proyek yang Layak Dilihat
 
 - [**Proyek 1**](https://github.com/M4sr/project1) - **Aplikasi web untuk [kegunaan tertentu]**  
-  • Dibangun dengan **React**, **Node.js**, dan **MongoDB**  
-  • Dioptimalkan untuk performa dengan **arsitektur serverless**.
+  Dibangun dengan **React**, **Node.js**, dan **MongoDB**.  
+  Dioptimalkan untuk performa dengan **arsitektur serverless**.
 
 - [**Proyek 2**](https://github.com/M4sr/project2) - **Alat otomatisasi untuk [tugas tertentu]**  
-  • Memanfaatkan **Python** dan **Docker** untuk efisiensi dan skalabilitas.
+  Memanfaatkan **Python** dan **Docker** untuk efisiensi dan skalabilitas.
 
 - [**Proyek 3**](https://github.com/M4sr/project3) - **[fitur/proyek interaktif]**  
-  • Menyediakan **pembaruan real-time** menggunakan WebSockets.
+  Menyediakan **pembaruan real-time** menggunakan WebSockets.
 
 ---
 
